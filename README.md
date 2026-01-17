@@ -18,4 +18,4 @@ Backend Developer | Java | Open Source Enthusiast
 - GSoc Preparation
 
 ### 📫 Connect with me:
--LinkedIN: https://www.linkedin.com/in/rujata-gaikwad-901908274
+- LinkedIN: https://www.linkedin.com/in/rujata-gaikwad-901908274
