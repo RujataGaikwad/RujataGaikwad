@@ -5,7 +5,7 @@ Backend Developer | Java | Open Source Enthusiast
 - 💻 Java & Backend Developer
 - 🌱 Learning Open Source and Preparing for Google Summer of Code (GSoC)
 
-### Tech Stack
+### 🛠️ Tech Stack
 - **Java** 
 - **SQL**
 - **REST APIs**
